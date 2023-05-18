@@ -2,7 +2,6 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clht9z811005408jkx0gbsl4a/stats?cursusId=58&coalitionId=216" alt="sallorca's 42 stats" /></a>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clht9z811005408jkx0gbsl4a/stats?cursusId=21&coalitionId=216" alt="sallorca's 42 stats" /></a>
 <h1 align="center">Hi 👋, I'm Sara</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sallorca&label=Profile%20views&color=0e75b6&style=flat" alt="sallorca" /> </p>
 
