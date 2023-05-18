@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clht9z811005408jkx0gbsl4a/stats?cursusId=58&coalitionId=216" alt="sallorca's 42 stats" /></a><!--
-**sallorca/sallorca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clht9z811005408jkx0gbsl4a/stats?cursusId=21&coalitionId=216" alt="sallorca's 42 stats" /></a>**sallorca/sallorca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
